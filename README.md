@@ -3,5 +3,5 @@ A sandbox repository to practise git commands.
 
 To be used to practise git collaboratively by:
 
-- Tom Wite
+- Tom White
 - Brain Tendai Junior Mbanje
